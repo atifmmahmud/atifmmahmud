@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Atif! 👋
 
-<!--
-**AtifMahmud/AtifMahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a software developer passionate about **VR**, **AR**,  and creating innovative solutions with **Unity** and **Unreal Engine**. 🚀
 
-Here are some ideas to get you started:
+### 🔧 What I Do
+- Build SDKs for XR applications
+- Develop immersive training simulations
+- Explore the intersection of AI and XR
+- Cook up creative projects like a mad scientist 👨‍🍳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!
+- [LinkedIn](https://linkedin.com/in/atifmmahmud/)
+- [Portfolio](https://github.com/atifmmahmud)
+
+Thanks for stopping by! Let’s build something amazing together. 🌟
