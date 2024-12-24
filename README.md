@@ -10,6 +10,6 @@ Welcome to my GitHub! I'm a software developer passionate about **VR**, **AR**, 
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/atifmmahmud/)
-- [Portfolio](https://github.com/atifmmahmud)
+- [Portfolio](atifm.com)
 
 Thanks for stopping by! Let’s build something amazing together. 🌟
