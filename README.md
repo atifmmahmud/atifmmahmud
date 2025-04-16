@@ -5,7 +5,6 @@ Welcome to my GitHub! I'm a software developer passionate about **VR**, **AR**, 
 ### 🔧 What I Do
 - Build SDKs for XR applications
 - Develop immersive training simulations
-- Explore the intersection of AI and XR
 - Cook up creative projects like a mad scientist 👨‍🍳
 
 ### 📫 Let's Connect!
